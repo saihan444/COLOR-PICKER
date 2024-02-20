@@ -71,3 +71,10 @@ textarea{
     font-size: 20px;
     
 }
+
+@media(max-width:660px){
+    textarea {
+        width: 78%;
+        
+    }
+}
